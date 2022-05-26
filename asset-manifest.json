@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.bfa1d54e.chunk.css",
-    "main.js": "/static/js/main.60adc3cc.chunk.js",
-    "main.js.map": "/static/js/main.60adc3cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.121c825a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.121c825a.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6e00da31.chunk.js": "/static/js/2.6e00da31.chunk.js",
-    "static/js/2.6e00da31.chunk.js.map": "/static/js/2.6e00da31.chunk.js.map",
-    "static/js/3.076ad47f.chunk.js": "/static/js/3.076ad47f.chunk.js",
-    "static/js/3.076ad47f.chunk.js.map": "/static/js/3.076ad47f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.bfa1d54e.chunk.css.map": "/static/css/main.bfa1d54e.chunk.css.map",
-    "static/js/2.6e00da31.chunk.js.LICENSE.txt": "/static/js/2.6e00da31.chunk.js.LICENSE.txt"
+    "main.css": "https://kenan812.github.io/kenan812-chat.github.io/static/css/main.bfa1d54e.chunk.css",
+    "main.js": "https://kenan812.github.io/kenan812-chat.github.io/static/js/main.60adc3cc.chunk.js",
+    "main.js.map": "https://kenan812.github.io/kenan812-chat.github.io/static/js/main.60adc3cc.chunk.js.map",
+    "runtime-main.js": "https://kenan812.github.io/kenan812-chat.github.io/static/js/runtime-main.121c825a.js",
+    "runtime-main.js.map": "https://kenan812.github.io/kenan812-chat.github.io/static/js/runtime-main.121c825a.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "https://kenan812.github.io/kenan812-chat.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6e00da31.chunk.js": "https://kenan812.github.io/kenan812-chat.github.io/static/js/2.6e00da31.chunk.js",
+    "static/js/2.6e00da31.chunk.js.map": "https://kenan812.github.io/kenan812-chat.github.io/static/js/2.6e00da31.chunk.js.map",
+    "static/js/3.076ad47f.chunk.js": "https://kenan812.github.io/kenan812-chat.github.io/static/js/3.076ad47f.chunk.js",
+    "static/js/3.076ad47f.chunk.js.map": "https://kenan812.github.io/kenan812-chat.github.io/static/js/3.076ad47f.chunk.js.map",
+    "index.html": "https://kenan812.github.io/kenan812-chat.github.io/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "https://kenan812.github.io/kenan812-chat.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bfa1d54e.chunk.css.map": "https://kenan812.github.io/kenan812-chat.github.io/static/css/main.bfa1d54e.chunk.css.map",
+    "static/js/2.6e00da31.chunk.js.LICENSE.txt": "https://kenan812.github.io/kenan812-chat.github.io/static/js/2.6e00da31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.121c825a.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6e00da31.chunk.js",
-    "static/css/main.bfa1d54e.chunk.css",
-    "static/js/main.60adc3cc.chunk.js"
+    "https://kenan812.github.io/kenan812-chat.github.io/static/js/runtime-main.121c825a.js",
+    "https://kenan812.github.io/kenan812-chat.github.io/static/css/2.4c97ca4f.chunk.css",
+    "https://kenan812.github.io/kenan812-chat.github.io/static/js/2.6e00da31.chunk.js",
+    "https://kenan812.github.io/kenan812-chat.github.io/static/css/main.bfa1d54e.chunk.css",
+    "https://kenan812.github.io/kenan812-chat.github.io/static/js/main.60adc3cc.chunk.js"
   ]
 }
